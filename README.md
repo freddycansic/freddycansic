@@ -3,6 +3,6 @@
 	<br>
 	<img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddycansic&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vue-dark&hide_border=true&hide=Vim%20Snippet" alt="freddycansic"/>
 	<br>
-	<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Spacerulerwill/Spacerulerwill" />
+	<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=freddycansic/freddycansic" />
 </p>
 
