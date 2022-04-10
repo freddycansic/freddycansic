@@ -6,3 +6,5 @@
 	<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=freddycansic/freddycansic" />
 </p>
 
+Interests:
+- C++
